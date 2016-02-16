@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Polizas</string>
+    <string name="titulo">Calculadora de Póliza</string>
+    <string name="edad">Edad</string>
+    <string name="estado">Casado</string>
+    <string name="calcular">Calcular</string>
+    <string name="Borrar">Borrar</string>
+    <string name="cajatexto">El importe de su póliza es 40.00 € / mes</string>
 </resources>
