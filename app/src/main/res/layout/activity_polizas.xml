@@ -89,7 +89,8 @@
         android:layout_alignLeft="@+id/calcular"
         android:layout_alignStart="@+id/calcular"
         android:layout_marginTop="24dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:onClick="hideText" />
 
     <TextView
         android:layout_width="wrap_content"
